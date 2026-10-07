@@ -1,37 +1,39 @@
-# Hi, I'm José Eduardo 👋
+# Hi, I'm José Eduardo
 
-Data Analyst with 4+ years of experience working with data analysis and data-driven solutions.
+**Data & Product Analyst | Python • SQL • Power BI**  
+**Business & Financial Analytics | AI & Automation | Requirements Analysis**
 
-Currently expanding my expertise in **Artificial Intelligence and Machine Learning** through a Data Science degree, focusing on real-world AI applications such as NLP, predictive models, and intelligent systems.
+I connect data, business questions, and requirements to support clearer insights, better processes, and informed decisions.
 
-## 🚀 Areas of Interest
+My professional focus spans **Data Analysis, Product Analysis, Business Analytics, and Requirements Analysis**. I use Python, SQL, and Power BI as core analytical tools, with AI and automation as complementary capabilities.
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing (NLP)
-- Data Science
-- Data Analysis
-- AI-powered applications
+## Focus areas
 
-## 🛠️ Technologies & Tools
+- **Data & business analysis:** exploratory analysis, data quality, visualization, and translating findings into business questions and decision support.
+- **Financial analytics:** customer profiles, credit limits, transaction behavior, and price analysis.
+- **Product & requirements analysis:** connecting business needs, analytical questions, and clear requirements.
+- **AI & automation:** complementary approaches to streamline analytical work and explore predictive methods.
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Jupyter Notebook
+## Selected projects
 
-## 📊 What I’m working on
+| Project | What it demonstrates |
+| --- | --- |
+| [Credit Data Exploration with SQL](https://github.com/EduardoRosaTech/Credit-EDA-and-Analysis) | SQL exploration of customer segments, credit limits, and transactions using AWS Athena and S3. |
+| [São Paulo Gasoline Price Analysis](https://github.com/EduardoRosaTech/Projeto-analise-de-custo-de-combustivel) | Python, Pandas, Seaborn, and Matplotlib for a reproducible price visualization. |
+| [Demographic & Economic Analysis](https://github.com/EduardoRosaTech/US-Census-Data-Analysis) | Python EDA, income comparisons, and correlation analysis using a small educational dataset explicitly labeled as simulated. |
+| [Penguin EDA & Classification](https://github.com/EduardoRosaTech/Analise-preditiva-de-pinguins) | Data preparation, exploratory visualizations, and a decision-tree classification exercise. |
 
-- Machine Learning projects
-- AI applications
-- Data analysis and visualization
-- NLP-based systems
+These public projects are portfolio and educational work. Their findings are scoped to the datasets and methods documented in each repository.
 
-## 🌎 Goals
+## Tools
 
-Build impactful AI solutions and contribute to innovative data-driven products.
+**Core:** Python · SQL · Power BI  
+**Analysis & visualization:** Pandas · NumPy · Matplotlib · Seaborn · Jupyter / Google Colab  
+**Data platforms:** AWS Athena · Amazon S3 · SQLite  
+**Complementary ML:** scikit-learn
 
-Open to **remote international opportunities** in Data Science, Machine Learning, and AI Engineering.
+## Let's connect
+
+Open to **Data Analyst, Product Analyst, Business Analyst, and Requirements Analyst** opportunities, including remote and international roles.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/joseeduardotech/)
